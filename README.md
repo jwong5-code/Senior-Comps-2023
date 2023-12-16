@@ -4,7 +4,7 @@ Replication Instructions
 
 1. Anaconda Installation:
 
-Start by downloading Anaconda from the official website:  Free Download | Anaconda. Make sure to select the version compatible with your operating system (Mac, Windows, Linux). It is important to note that Anaconda is a powerful suite of tools that simplifies package management and deployment for Python projects. Also, ensure there is at least 1.1GB of storage available for the installation.
+Start by downloading Anaconda from the official website:  [Free Download | Anaconda](https://www.anaconda.com/download). Make sure to select the version compatible with your operating system (Mac, Windows, Linux). It is important to note that Anaconda is a powerful suite of tools that simplifies package management and deployment for Python projects. Also, ensure there is at least 1.1GB of storage available for the installation.
   
 2. Anaconda Navigator Installation:
 Once Anaconda is installed, open a terminal (for Linux/Mac) or Anaconda Prompt (for Windows). To install Anaconda Navigator, a graphical user interface that helps in managing conda packages, environments, and more, type the command:
@@ -25,7 +25,7 @@ Inside Anaconda Navigator, launch Jupyter Notebook 6.5.4. Jupyter Notebook is ch
 This project is using Python version 3.11.5, which is packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)].
 
 6. Dataset Download:
-Download the HAM10000 dataset from [ViDIR Dataverse (harvard.edu)](The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions - ViDIR Dataverse (harvard.edu)). Download both the images in the folder and the metadata in a .txt file format, which includes crucial information like image names and corresponding labels, vital for the classification system. This dataset is particularly chosen for its diversity and size, making it suitable for training a robust model.
+Download the HAM10000 dataset from[ [ViDIR Dataverse (harvard.edu)](The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions - ViDIR Dataverse (harvard.edu))](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T). Download both the images in the folder and the metadata in a .txt file format, which includes crucial information like image names and corresponding labels, vital for the classification system. This dataset is particularly chosen for its diversity and size, making it suitable for training a robust model.
 
 7. Python Packages:
 Make sure you have the necessary Python packages installed. You can install them using `conda` or `pip`:
