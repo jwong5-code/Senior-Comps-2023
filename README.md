@@ -1,6 +1,10 @@
 # Senior-Comps-2023
 
-Replication Instructions
+# Motivation
+
+Given my passion in technology and what the world needs, I highly believe this project is a way for me to express my passion for designing technology that can solve problems or suggest evidence about the growing powers of AI.
+
+# Replication Instructions
 
 1. Anaconda Installation:
 
